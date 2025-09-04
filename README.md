@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmbdelkhalek@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W0x8P6lUeGD5MqU2qkkG8tBNhHRDVrIw/view?usp=sharing](https://drive.google.com/file/d/1W0x8P6lUeGD5MqU2qkkG8tBNhHRDVrIw/view?usp=sharing)
+- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1W0x8P6lUeGD5MqU2qkkG8tBNhHRDVrIw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
