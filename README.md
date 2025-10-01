@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samy Abdelkhalek</h1>
-<h3 align="center">Android developer who enjoys building scalable, high-performance apps with great user experiences. I work with modern Android architecture patterns, create custom UI components, and integrate RESTful APIs using the latest tools and libraries.</h3>
+<h3 align="center">Android developer who enjoys building scalable, high-performance apps with great user experiences. work with modern Android architecture patterns, create custom UI components, and integrate RESTful APIs using the latest tools and libraries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsamii&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsamii" /> </p>
 
