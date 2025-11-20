@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samy Abdelkhalek</h1>
 <h3 align="center">Android developer who enjoys building scalable, high-performance apps with great user experiences. work with modern Android architecture patterns, create custom UI components, and integrate RESTful APIs using the latest tools and libraries.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmeddsamii" alt="ahmeddsamii" /></a> </p>
-
 - 🌱 I’m currently learning **Android development**
 
 - 📫 How to reach me **ahmbdelkhalek@gmail.com**
